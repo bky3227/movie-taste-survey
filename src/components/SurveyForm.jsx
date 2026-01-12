@@ -21,7 +21,7 @@ const SurveyForm = ({
 }) => {
   if (isSubmitted) {
     return (
-      <div className="min-h-screen flex justify-center items-center bg-gray-100 p-6">
+      <div className="min-h-screen flex justify-center items-center bg-white p-6">
         <div className="w-full max-w-md bg-white rounded-lg shadow p-6 space-y-3">
           <h2 className="text-xl font-bold">📋 Summary of survey results</h2>
 
